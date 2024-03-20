@@ -1,0 +1,3 @@
+support	itemsets	length
+0.14271886837030998	frozenset({'Banana'})	1
+0.1179797117575776	frozenset({'Bag of Organic Bananas'})	1
